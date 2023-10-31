@@ -199,4 +199,4 @@ notesCtrl.findeNote = (req, res) => {
 };
 module.exports = notesCtrl;
 
-
+//lean()
